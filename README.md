@@ -1,2 +1,2 @@
 # VueStart
-https://vityapoprozhuk.github.io/VueStart/
+https://vityapoprozhuk.github.io/vue/
